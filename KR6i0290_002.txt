@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:19.282039
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:14
 #+TITLE: 佛說大乘隨轉宣說諸法經
 #+PROPERTY: CBETA_ID T15n0652
 #+PROPERTY: ID KR6i0290
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 652
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0290_T_000-0774a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0290_T_002-0776c> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大乘隨轉宣說諸法經》卷中¶
+《佛說大乘隨轉宣說諸法經》卷中¶
 ¶
 宋明教辯才法師充譯經三藏¶
 沙門紹德等奉　詔譯¶
