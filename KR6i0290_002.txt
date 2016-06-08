@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:19.282039
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:14
 #+TITLE: 佛說大乘隨轉宣說諸法經
 #+PROPERTY: CBETA_ID T15n0652
 #+PROPERTY: ID KR6i0290
